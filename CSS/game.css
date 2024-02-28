@@ -1,0 +1,13 @@
+#canvass {
+    border: 1px solid;
+    color: #000000;
+}
+  
+h1 {
+    text-align: center;
+}
+
+.allbutton {
+  display: flex;
+  justify-content: space-evenly;
+}
